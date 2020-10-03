@@ -1,2 +1,1 @@
-# education-project
-Nodejs, Vue
+# Nodejs, Vue
